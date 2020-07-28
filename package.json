@@ -57,7 +57,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nord",
+        "label": "Nord Custom",
         "uiTheme": "vs-dark",
         "path": "./themes/nord-color-theme.json"
       }
